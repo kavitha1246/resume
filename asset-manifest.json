@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.e6c13ad2.css",
-    "main.js": "/resume/static/js/main.8ed9a841.js",
+    "main.js": "/resume/static/js/main.b5e16a47.js",
     "static/js/453.02f202b8.chunk.js": "/resume/static/js/453.02f202b8.chunk.js",
     "static/media/Kavitha_UI_Developer_Updated.docx": "/resume/static/media/Kavitha_UI_Developer_Updated.1f68c127829f3d41661e.docx",
     "static/media/certification.png": "/resume/static/media/certification.2596e73968ae9e7c1d7a.png",
     "index.html": "/resume/index.html",
     "main.e6c13ad2.css.map": "/resume/static/css/main.e6c13ad2.css.map",
-    "main.8ed9a841.js.map": "/resume/static/js/main.8ed9a841.js.map",
+    "main.b5e16a47.js.map": "/resume/static/js/main.b5e16a47.js.map",
     "453.02f202b8.chunk.js.map": "/resume/static/js/453.02f202b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8ed9a841.js"
+    "static/js/main.b5e16a47.js"
   ]
 }
