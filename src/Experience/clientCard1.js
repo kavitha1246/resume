@@ -61,7 +61,7 @@ function ClientCard1() {
               Role: UI Developer
             </Typography>
             <Typography variant="body2" color="text.secondary">
-            Technologies: React JS, Redux, JavaScript, HTML5, CSS3,Redux, Redux Toolkit, RESTful APIs
+            Technologies: React JS,  JavaScript, HTML5, CSS3, Redux Toolkit, Reduc Thunk, Bit Bucket, RESTful APIs
             </Typography>
             <Typography variant="caption" color="text.secondary">
               (Click to see highlights)

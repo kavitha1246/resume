@@ -60,7 +60,7 @@ function ClientCard3() {
               Role: UI Developer
             </Typography>
             <Typography variant="body2" color="text.secondary">
-            Technologies: React,next js,Redux,Redux Toolkit,Redux Thunk,HTML, CSS,Bootstrap, JSON, REST, GitHub, NPM, JavaScript, jQuery,Handlebars,FTL
+            Technologies: React,next js,Redux Saga,HTML, Styled Components, JSON, REST, GitHub, NPM, JavaScript.
             </Typography>
             <Typography variant="caption" color="text.secondary">
               (Click to see highlights)

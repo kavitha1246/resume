@@ -1,8 +1,8 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Navbar />
 
       <Routes>
@@ -14,6 +14,6 @@ export default function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/download" element={<ResumeActions />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
