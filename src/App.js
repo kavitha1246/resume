@@ -11,7 +11,7 @@ import ResumeActions from './Download';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/kavitha1246/">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
 
       <Routes>
