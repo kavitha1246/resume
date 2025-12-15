@@ -1,17 +1,8 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navbar from './navBar';
-import Home from './Home';
-import Education from './Education';
-import Experience from './Experience/experience';
-import SkillSet from './Skills';
-import Certifications from './Certification';
-import Contact from './Contact';
-import ResumeActions from './Download';
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Navbar />
 
       <Routes>
@@ -23,6 +14,6 @@ export default function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/download" element={<ResumeActions />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
