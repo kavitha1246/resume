@@ -35,7 +35,6 @@ function Experience() {
         Professional Experience
       </Typography>
 
-      {/* 📱 MOBILE & TABLET → ONE CARD WITH TABS */}
       {isMobileOrTablet && (
         <Box>
           <Tabs
@@ -56,7 +55,6 @@ function Experience() {
         </Box>
       )}
 
-      {/* 💻 DESKTOP → ALL CARDS */}
       {!isMobileOrTablet && (
         <>
           <Stack direction="row" spacing={2} justifyContent="center">
