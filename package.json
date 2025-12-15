@@ -2,7 +2,7 @@
   "name": "resumeapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kavitha1246/resume",
+  "homepage": "https://kavitha1246.github.io/resume",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
