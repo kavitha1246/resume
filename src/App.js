@@ -1,4 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Navbar from './navBar';
+import Home from './Home';
+import Education from './Education';
+import Experience from './Experience/experience';
+import SkillSet from './Skills';
+import Certifications from './Certification';
+import Contact from './Contact';
+import ResumeActions from './Download';
 
 export default function App() {
   return (

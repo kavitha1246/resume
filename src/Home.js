@@ -3,7 +3,7 @@ import { List, ListItem, ListItemText, Typography } from "@mui/material";
 
 const TenSentencesList = () => {
   const sentences = [
-    "Over 10+ years of IT experience as a UI Developer, specializing in building scalable and user-friendly web applications.",
+    "Over 11+ years of IT experience as a UI Developer, specializing in building scalable and user-friendly web applications.",
     "Experienced in Banking, Insurance, and Finance domains, handling development, production support, and maintenance projects.",
     "Extensive expertise in React JS, JavaScript, HTML5, CSS3, SASS, LESS, Redux,Redux Toolkit, Redux Thunk, Redux Saga, jQuery, JSON, Node.js, Ajax, and Bootstrap.",
     "Strong knowledge in developing Single Page Applications (SPAs) with modern frameworks and libraries.",

@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Stack } from "@mui/material";
 import { OpenInNew, Download } from "@mui/icons-material";
-import resume from './assets/Kavitha_UI_Developer_Updated.docx';
+import resume from './assets/Kavitha_UI_Developer.docx';
 
 const ResumeActions = () => {
     const resumePath = resume;
@@ -13,7 +13,7 @@ const ResumeActions = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = resumePath;
-    link.download = "Kavitha_UI_Developer_Updated.docx"; // clean filename
+    link.download = "Kavitha_UI_Developer.docx"; // clean filename
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

@@ -9,6 +9,7 @@ import ClientCard3 from './clientCard3';
 import ClientCard4 from './clientCard4';
 import ClientCard5 from './clientCard5';
 import ClientCard6 from './clientCard6';
+import ClientCard7 from './clientCard7';
 
 const cards = [
   <ClientCard />,
@@ -18,6 +19,8 @@ const cards = [
   <ClientCard4 />,
   <ClientCard5 />,
   <ClientCard6 />
+  ,
+  <ClientCard7 />
 ];
 
 function Experience() {
@@ -73,6 +76,7 @@ function Experience() {
             <ClientCard4 />
             <ClientCard5 />
             <ClientCard6 />
+            <ClientCard7 />
           </Stack>
         </>
       )}
