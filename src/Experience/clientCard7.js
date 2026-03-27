@@ -34,10 +34,10 @@ function ClientCard7() {
       onClick={() => setFlipped(!flipped)}
     >
       <div
-        style={{
+       style={{
           position: "relative",
           width: "100%",
-          height: "240px",
+          height: "200px",
           transformStyle: "preserve-3d",
           transition: "transform 0.8s",
           transform: flipped ? "rotateY(180deg)" : "rotateY(0deg)"

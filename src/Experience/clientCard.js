@@ -55,7 +55,7 @@ function ClientCard() {
           <CardContent>
             <Typography variant="h6" sx={{fontSize:'15px'}}>Bank of America(Via Infosys)</Typography>
             <Typography variant="body2" sx={{fontSize:'10px'}}color="text.secondary">
-              Year: Sep 2024 – Present
+              Year: Sep 2024 – Oct 2025
             </Typography>
             <Typography variant="body2" color="text.secondary">
               Role: UI Developer

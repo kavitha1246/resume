@@ -61,10 +61,10 @@ function Experience() {
       {!isMobileOrTablet && (
         <>
           <Stack direction="row" spacing={2} justifyContent="center">
+             <ClientCard7 />
             <ClientCard />
             <ClientCard1 />
-            <ClientCard2 />
-            <ClientCard3 />
+            <ClientCard2 />           
           </Stack>
 
           <Stack
@@ -73,10 +73,11 @@ function Experience() {
             justifyContent="center"
             mt={2}
           >
+            <ClientCard3 />
             <ClientCard4 />
             <ClientCard5 />
             <ClientCard6 />
-            <ClientCard7 />
+            
           </Stack>
         </>
       )}
