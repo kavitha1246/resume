@@ -17,7 +17,7 @@ const TenSentencesList = () => {
     "Familiarity with Agile Scrum methodology, bug tracking tools like JIRA, and build tools such as Webpack, Babel, NPM, and Yarn.",
     "Experience in React JS framework to develop the SPA.",
     "Experienced in working with Redux architecture using complex Object-Oriented concepts in improving the performance of the websites.",
-    "Expertise in using IDE tools such as Notepad ++, Visual Studio Code, Eclipse.",
+    "Expertise in using IDE tools such as Notepad ++, Visual Studio Code, Eclipse and IntelliJ IDEA.",
     "Developed dynamic, responsive web applications using Angular, leveraging components, services, and modules for scalable architecture.",
     "Built reusable UI components and implemented two-way data binding, improving development efficiency and maintainability.",
     "Integrated RESTful APIs using HttpClient and handled asynchronous data with RxJS Observables.",
