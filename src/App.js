@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from './navBar';
 import Home from './Home';
 import Education from './Education';
@@ -10,7 +10,7 @@ import ResumeActions from './Download';
 
 export default function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <Router>
       <Navbar />
 
       <Routes>
@@ -22,6 +22,6 @@ export default function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/download" element={<ResumeActions />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
